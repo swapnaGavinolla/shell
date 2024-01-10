@@ -4,5 +4,5 @@
 # echo "the sum is $((a+b))"
 
 echo "enter ur name"
-read Username
+read -s  Username
 echo "u entered $Username"
